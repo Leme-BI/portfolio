@@ -1,3 +1,3 @@
 # Portfolio
-Portfolio de Projetos em Power BI, Python e SQL para análise de Dados.
+Portfolio de Projetos em Power BI e Python para análise de Dados.
 
